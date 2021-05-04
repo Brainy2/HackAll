@@ -1,0 +1,2 @@
+# HackAll
+Hack any Reasource
